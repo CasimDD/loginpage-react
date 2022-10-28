@@ -1,0 +1,15 @@
+.buton{
+outline-style:dotted;
+width: max-content;
+background-color: rgb(63, 215, 137);
+color: rgb(255, 2, 2);
+box-sizing:content-box;
+padding: 20px;
+font-size: 24px;
+cursor:pointer;
+transition: all.5s ease;
+
+}
+.buton:hover{
+background-color: rgb(200, 0, 255);
+}
