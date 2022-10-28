@@ -24,7 +24,7 @@ function App() {
       <Form>
         <Input type={"text"} value={"user.name"} placeHolder={"User name" } onChange={handleChange}></Input>
         <Input type={"password"} value={"user.password"} onChange={handleChange} placeHolder="Password" />
-        <Button onClick={()=> alert("merhaba")}/>
+        <Button onClick={()=> alert("Hello")}/>
       </Form>
     </div>
   );
